@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-napi-equal-types",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Assert that two Node-API data types are equal.",
   "license": "Apache-2.0",
   "author": {
